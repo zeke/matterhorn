@@ -15,3 +15,9 @@ References
 ----------
 
 * http://code.google.com/chrome/extensions/getstarted.html
+
+To Do
+-----
+
+* Improve proper-noun regex search
+* Generate a list of dom structures for various partners (e.g. div#nyt-article-body p or whatevs)
