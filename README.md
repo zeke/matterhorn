@@ -15,6 +15,12 @@ References
 ----------
 
 * http://code.google.com/chrome/extensions/getstarted.html
+* If your extension needs to interact with web pages, then it needs a content script. 
+	A content script is some JavaScript that executes in the context of a page that's 
+	been loaded into the browser. Think of a content script as part of that loaded 
+	page, not as part of the extension it was packaged with (its parent extension).
+* http://stackoverflow.com/questions/950087/include-javascript-file-inside-javascript-file
+* http://code.google.com/chrome/extensions/samples.html
 
 To Do
 -----
