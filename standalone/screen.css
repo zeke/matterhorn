@@ -1,0 +1,17 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial;
+	padding: 20px;
+	font-size: 1.1em;
+}
+
+div.ec-blog-body {
+	width: 500px;
+}
+
+div.ec-blog-body p {
+	line-height: 1.2em;
+}
+
+div.ec-blog-body a {
+	color: #2878B8;
+}

@@ -22,6 +22,11 @@ References
 * http://stackoverflow.com/questions/950087/include-javascript-file-inside-javascript-file
 * http://code.google.com/chrome/extensions/samples.html
 
+// $.getScript("mustache.js", function(){
+//    alert("Script loaded and executed.");
+// });
+
+
 To Do
 -----
 
