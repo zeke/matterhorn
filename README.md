@@ -21,6 +21,7 @@ References
 	page, not as part of the extension it was packaged with (its parent extension).
 * http://stackoverflow.com/questions/950087/include-javascript-file-inside-javascript-file
 * http://code.google.com/chrome/extensions/samples.html
+* http://lab.arc90.com/2009/01/09/json-css-a-more-powerful-css-proof-of-concept/
 
 // $.getScript("mustache.js", function(){
 //    alert("Script loaded and executed.");

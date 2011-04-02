@@ -1,0 +1,13 @@
+{
+  "name": "Matterhorn",
+  "version": "0.1",
+  "description": "In-page wordnik context.",
+  "permissions": [
+    "http://api.wordnik.com/"
+  ],
+  "content_scripts": [ {
+     "all_frames": true,
+     "js": ["content.js"],
+     "matches": [ "*://*.nytimes.com/20*", "*://*.economist.com/node/*", "http://en.wikipedia.org/wiki/*", "*://online.wsj.com/article/*" ]
+  } ]
+}
